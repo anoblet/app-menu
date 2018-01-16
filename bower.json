@@ -14,8 +14,7 @@
     "menu"
   ],
   "main": [
-    "app-menu.html",
-    "app-submenu.html"
+    "app-menu.html"
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#1.9 - 2",
